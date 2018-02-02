@@ -1,0 +1,265 @@
+{
+	"Questions":
+	[
+		{
+			"Question": "What is the higher mountain in the world?",
+			"Choices": ["What", "is", "higher", "in"],
+			"Correct": 2
+		},
+		{
+			"Question": "I wish my mother gives me presents more often.",
+			"Choices": ["wish", "gives", "me", "more often"],
+			"Correct": 1
+		},
+		{
+			"Question": "Ordinary Americans are friendly and not afraid to show its feelings.",
+			"Choices": ["Ordinary", "are", "not", "its"],
+			"Correct": 3
+		},
+		{
+			"Question": "The girl who were injured in the accident is now in hospital.",
+			"Choices": ["who", "were", "in", "is"],
+			"Correct": 1
+		},
+		{
+			"Question": "There wasn't some directory in the telephone box from which I was phoning.",
+			"Choices": ["wasn't", "some", "the", "from"],
+			"Correct": 1
+		},
+		{
+			"Question": "Mai and Lan have a row because they have misunderstood one another.",
+			"Choices": ["have", "because", "misunderstood", "one another"],
+			"Correct": 3
+		},
+		{
+			"Question": "The workers are building a new bridge which is 150 meters in high.",
+			"Choices": ["building", "a new bridge", "which", "high"],
+			"Correct": 3
+		},
+		{
+			"Question": "She behaves as if she was a baby.",
+			"Choices": ["behaves", "as if", "was", "a"],
+			"Correct": 2
+		},
+		{
+			"Question": "Sleeping all day, to eat too much and never going out is unhealthy.",
+			"Choices": ["Sleeping", "to eat", "much", "never"],
+			"Correct": 1
+		},
+		{
+			"Question": "Thank you very much of the present that you sent me.",
+			"Choices": ["very", "much", "of", "that"],
+			"Correct": 2
+		},
+		{
+			"Question": "There always is one wise woman who is both feared and respected by her people.",
+			"Choices": ["always", "wise", "who", "both"],
+			"Correct": 0
+		},
+		{
+			"Question": "Some children, before going to school, go to kindergartens, officially are called nursery schools.",
+			"Choices": ["before", "go", "officially", "are called"],
+			"Correct": 3
+		},
+		{
+			"Question": "If you make a five-days trip across the Atlantic Ocean, your ship enters a different time zone every day.",
+			"Choices": ["make", "five-days", "enters", "zone"],
+			"Correct": 1
+		},
+		{
+			"Question": "When he arrived at the furniture shop, they had been sold the table he wanted.",
+			"Choices": ["at", "furniture", "had been sold", "wanted"],
+			"Correct": 2
+		},
+		{
+			"Question": "If airplane ticket wasn't expensive, I could fly to Singapore formy holidays.",
+			"Choices": ["If", "wasn't", "could fly", "for"],
+			"Correct": 1
+		},
+		{
+			"Question": "A Tokyo newspaper - television company had organized the climb in 1975.",
+			"Choices": ["Tokyo", "company", "had organized", "in"],
+			"Correct": 2
+		},
+		{
+			"Question": "The noise on the roof of the trailer woke Bill and Fred up very quick.",
+			"Choices": ["The", "of", "woke", "quick"],
+			"Correct": 3
+		},
+		{
+			"Question": "David was a bravery man to go on this adventure by himself.",
+			"Choices": ["was", "bravery", "on", "himself"],
+			"Correct": 1
+		},
+		{
+			"Question": "Each Easter Monday, old people, widows, widowers, and others living on small incomes take part with a ceremony called Chulkurst Charity.",
+			"Choices": ["old", "living", "with", "called"],
+			"Correct": 2
+		},
+		{
+			"Question": "Her family were patriots who supported the American Revolutional.",
+			"Choices": ["were", "patriots", "who", "Revolutional"],
+			"Correct": 3
+		},
+		{
+			"Question": "She would be killed if that she did not betray the patriots in the area.",
+			"Choices": ["would", "if that", "did not", "in"],
+			"Correct": 1
+		},
+		{
+			"Question": "The city of Lufkin, Texas, has had much than ten million employees working for it without pay.",
+			"Choices": ["city", "has had", "much", "working"],
+			"Correct": 2
+		},
+		{
+			"Question": "The worms eat the waste and turn it into clean fertilizer whom the city then sells to farmers.",
+			"Choices": ["eat", "into", "whom", "to"],
+			"Correct": 2
+		},
+		{
+			"Question": "During the Revolutionary War, American patriot wives and children frequently had to take refuge in forts escaping attacks.",
+			"Choices": ["During", "wives", "take", "escaping"],
+			"Correct": 3
+		},
+		{
+			"Question": "The women would spend their time to make bread and bullets for the soldiers.",
+			"Choices": ["would", "their", "to make", "for"],
+			"Correct": 2
+		},
+		{
+			"Question": "The women were indignant and decided that they themselves would do one more effort to drive off the enemy.",
+			"Choices": ["were", "decided", "do", "to drive"],
+			"Correct": 2
+		},
+		{
+			"Question": "The delay to prevent the surrender and allowed time for reinforcements to arrive and drive off the enemy.",
+			"Choices": ["to prevent", "allowed", "to arrive", "drive"],
+			"Correct": 0
+		},
+		{
+			"Question": "A rich men and his wife went in a shop to buy a bracelet.",
+			"Choices": ["men", "wife", "in", "to buy"],
+			"Correct": 0
+		},
+		{
+			"Question": "She adopted a fifteen-years-old Sikkimese boy to travel with her.",
+			"Choices": ["adopted", "fifteen-years-old", "to travel", "with"],
+			"Correct": 1
+		},
+		{
+			"Question": "One day a lady saw a mouse to run across her kitchen floor.",
+			"Choices": ["One", "saw", "to run", "kitchen"],
+			"Correct": 2
+		},
+		{
+			"Question": "She did not want to go back to the shops because it was very lately.",
+			"Choices": ["did not", "to go", "because", "lately"],
+			"Correct": 3
+		},
+		{
+			"Question": "The last time I went to London, I didn't have time to visit all the place I wanted to see.",
+			"Choices": ["time", "to", "didn't", "place"],
+			"Correct": 3
+		},
+		{
+			"Question": "I soon got to know where were the main streets.",
+			"Choices": ["got", "where", "were", "streets"],
+			"Correct": 2
+		},
+		{
+			"Question": "I can spend quite a long time in Westminster Abbey and learn of all the interesting things there.",
+			"Choices": ["quite", "in", "of", "there"],
+			"Correct": 2
+		},
+		{
+			"Question": "They are very pleasant to travel by steamer down the Thames from Westminster to Tower Bridge.",
+			"Choices": ["They are", "pleasant", "by", "down"],
+			"Correct": 0
+		},
+		{
+			"Question": "At ten o'clock, the singer was asked coming upstairs to the lady's guests.",
+			"Choices": ["was asked", "coming", "upstairs", "to"],
+			"Correct": 1
+		},
+		{
+			"Question": "Abraham Lincoln was one of four presidents who was assassinated.",
+			"Choices": ["one", "presidents", "who", "was"],
+			"Correct": 3
+		},
+		{
+			"Question": "He doesn't much like the work, but he enjoyed the relationships with the other workers.",
+			"Choices": ["much", "but", "enjoyed", "with"],
+			"Correct": 2
+		},
+		{
+			"Question": "After getting her six-year-old daughter ready and driving her to the school, she starts on the housework.",
+			"Choices": ["getting", "six-year-old", "driving", "the school"],
+			"Correct": 3
+		},
+		{
+			"Question": "She finds housework bored and doesn't like to stay at home all day.",
+			"Choices": ["finds", "bored", "doesn't", "to saty"],
+			"Correct": 1
+		},
+		{
+			"Question": "The artist was very pleased and thanked the farmer for saying so kind things about the paintings.",
+			"Choices": ["pleased", "staying", "so", "about"],
+			"Correct": 2
+		},
+		{
+			"Question": "Several members of his family did a great deal to encourage him in the field of scientific.",
+			"Choices": ["Several", "to encourage", "in", "scientific"],
+			"Correct": 3
+		},
+		{
+			"Question": "Along in jogging and swimming, cycling is one of the best all-round forms of exercise.",
+			"Choices": ["in", "cycling", "one", "of"],
+			"Correct": 0
+		},
+		{
+			"Question": "Doing too much too quickly can damage muscles that aren't used to work.",
+			"Choices": ["Doing", "quickly", "aren't", "to work"],
+			"Correct": 3
+		},
+		{
+			"Question": "If you had any doubts about taking up cycling for health reasons, talk to your doctor and ask his or her advice.",
+			"Choices": ["had", "about", "talk", "ask"],
+			"Correct": 0
+		},
+		{
+			"Question": "The decay begins in a little crack in the enamel to cover of the tooth.",
+			"Choices": ["begins", "a little", "to cover", "of"],
+			"Correct": 2
+		},
+		{
+			"Question": "Coffee and tea is favorite hot drinks of people in all parts of the world.",
+			"Choices": ["and", "is", "drinks", "in"],
+			"Correct": 1
+		},
+		{
+			"Question": "In China, Japan and other Oriental countries, where tea is the national drink, people almost use never sugar in their tea.",
+			"Choices": ["Oriental", "where", "almost", "never"],
+			"Correct": 3
+		},
+		{
+			"Question": "He doesn't buy a ticket every day so he has a season ticket.",
+			"Choices": ["doesn't", "a", "so", "season"],
+			"Correct": 2
+		},
+		{
+			"Question": "Schools in England are not the same from in our country.",
+			"Choices": ["Schools", "are not", "from", "our"],
+			"Correct": 2
+		},
+		{
+			"Question": "Two old gentlemen lived in a quite street in Paris.",
+			"Choices": ["gentlemen", "in", "quite", "Paris"],
+			"Correct": 2
+		},
+		{
+			"Question": "If he doesn't understand the lesson, his father often explains it for him.",
+			"Choices": ["understand", "his", "often", "for"],
+			"Correct": 3
+		}
+	]
+}
